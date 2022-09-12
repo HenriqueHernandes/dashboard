@@ -1,6 +1,6 @@
 # Painel de administração responsivo para um site de comércio eletrônico.
 
- HTML, CSS e JavaScript modernos para criar um painel de administração totalmente responsivo com funcionalidade de tema de modo claro e escuro. Usaremos CSS Variables, CSS Grid, CSS Flexbox, Media queries para nosso design responsivo e transições e animações CSS para alguns efeitos interessantes de animação!
+ HTML, CSS e JavaScript modernos para criar um painel de administração totalmente responsivo com funcionalidade de tema de modo claro e escuro. Usando CSS Variables, CSS Grid, CSS Flexbox, Media queries para o design responsivo e transições e animações CSS para alguns efeitos interessantes de animação!
 
 ##
 # Modo-Dark
@@ -12,7 +12,7 @@
   ##
   # Modo-White
   <div align="center">
-<img src="https://user-images.githubusercontent.com/94022200/189770599-3fd2fb29-acdb-4516-aa29-1b7ddaf55d01.png" width="900px" />
+<img src="https://user-images.githubusercontent.com/94022200/189776623-cd14e024-a140-45a4-9256-891081f83f1e.png" width="900px" />
 </div
 
   ##
